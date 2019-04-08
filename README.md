@@ -3,8 +3,6 @@ A school project that implements three main operations on a context free grammar
 
 <img src="https://raw.githubusercontent.com/Dainerx/Context-Free-Grammars-Operations/master/screenshotocaml.jpeg">
 
-
-https://raw.githubusercontent.com/Dainerx/Context-Free-Grammars-Operations/master/screenshotocaml.jpeg
 ## Depedencies
 * OCaml version 4.02.3
 
